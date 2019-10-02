@@ -1,17 +1,15 @@
-var number = 10
-
-function add() {
-  number + 5
+function add(a, b) {
+  return a + b
 }
 
-function subtract() {
-
+function subtract(a, b) {
+  return a + b
 }
 
-function multiply() {
-
+function multiply(a, b) {
+  return a * b
 }
 
-function divide() {
-
+function divide(a, b) {
+  return a / b
 }
